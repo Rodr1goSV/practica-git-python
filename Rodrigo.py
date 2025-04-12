@@ -1,1 +1,0 @@
-print("Primera vez usando GitHub, experiencia: muy buena")
